@@ -29,5 +29,5 @@
 |B| [SignUp](https://github.com/naverBoostCourseiOS/SignUp)           | 2023.02.13 ~ 2023.02.17 | |O|O|O|
 |C| [Weather](https://github.com/naverBoostCourseiOS/Weather)         | 2023.02.20 ~ 2023.02.24 | ||||
 |D| [Album](https://github.com/naverBoostCourseiOS/Album)             | 2023.02.27 ~ 2023.03.03 | ||||
-|E| [BoxOffice]((https://github.com/naverBoostCourseiOS/BoxOffice))   | 2023.03.06 ~ 2023.03.10 | ||||
+|E| [BoxOffice](https://github.com/naverBoostCourseiOS/BoxOffice)     | 2023.03.06 ~ 2023.03.10 | ||||
 
